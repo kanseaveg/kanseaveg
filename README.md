@@ -10,3 +10,5 @@
 - 🍻 Master at 🇨🇳 [GDUT](https://www.gdut.edu.cn), _MSc in Computer Science and Technology_
 - ⚡ PL: Java / Shell / Python / Scala / C++
 - 🔭 WKX: Former Big Data Architect at TCL Corporation
+
+Email Contact: taroballscai@hotmail.com
