@@ -7,7 +7,7 @@
   I have a proficient command of big data ecosystem frameworks such as Hadoop, Spark, and Flink. I am familiar with cloud-native technologies like Docker and Kubernetes (k8s). Currently, I am expanding my knowledge in the field of artificial intelligence deep learning natural language processing as well as efficient parameter fine-tuning for large models.
 
 
-- 🍻 Master at 🇨🇳 [GDUT](https://www.gdut.edu.cn), _MSc in Computer Science and Technology_
+- 🍻 Master at Anonymous
 - ⚡ PL: Java / Shell / Python / Scala / C++
 - 🔭 WKX: Former Big Data Architect at TCL Corporation
 
