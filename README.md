@@ -9,6 +9,7 @@
 
 - 🍻 Master at Anonymous
 - ⚡ PL: Java / Shell / Python / Scala / C++
+- 🙋🏻‍♂️ FOCUS ON: Text-to-SQL / RAG / PEFT / LLM / AGENTIC
 - 🔭 WKX: Former Big Data Architect at TCL Corporation
 
 Email Contact: taroballscai@hotmail.com
